@@ -1,0 +1,2 @@
+# noirshores
+Static site: noirshores
