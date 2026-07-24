@@ -1,0 +1,26 @@
+{
+  "name": "Noir Shores",
+  "short_name": "Noir",
+  "description": "Noir Shores: Understated luxury on a private shore",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f3ee",
+  "theme_color": "#caa472",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
